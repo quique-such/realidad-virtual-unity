@@ -1,10 +1,26 @@
-# Realidad Virtual con Unity
+# Realidad virtual con Unity — El castillo del mono
 
-Prototipos de VR con mecánicas de movimiento e integración de assets 3D
+[![Tecnologías](https://skillicons.dev/icons?i=unity,cs)](https://skillicons.dev)
 
-**Tecnologías:** Unity 3D · C#
+Experiencia de realidad virtual ambientada en una mazmorra medieval gobernada por animales, desarrollada en Unity.
+
+![Realidad virtual con Unity — El castillo del mono](docs/preview.jpg)
+
+## Qué hace
+
+- Escena explorable con mecánicas de movimiento en VR.
+- Integración de modelos y animaciones 3D en el entorno.
+- Storyboards y bocetos previos de los personajes.
+
+## Contenido
+
+| Fichero | Qué es |
+|---|---|
+| `Memoria VR.pdf` | Memoria: entorno, storyboards y recursos utilizados |
+| `boceto.png, cerdo.png, mono.png` | Bocetos de los personajes |
+
+> Este repo recoge la memoria y los bocetos; el proyecto de Unity no está incluido.
 
 ---
 
-Proyecto del grado en Tecnología Digital y Multimedia (UPV) — **Enrique Such Andreu**.
-Forma parte de mi portafolio: https://github.com/quique-such/portafolio
+Taller de Realidad Virtual en equipo, 3.º del Grado en Tecnología Digital y Multimedia (UPV). Forma parte de mi [portfolio](https://quique-such.github.io/portafolio/).
